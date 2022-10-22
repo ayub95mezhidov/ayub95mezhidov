@@ -11,3 +11,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ayub_mezhidov)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/ayub_mezhidov_95)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayub95mezhidov&show_icons=true)](https://github.com/ayub95mezhidov/github-readme-stats)
